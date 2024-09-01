@@ -2,27 +2,29 @@
 Hash: SHA256
 
 🥷 Welcome to the Rebel Code Labs 🥷
-- -------------------------------------
+- --------------------------------------
 Here you can find the following:
-- - 🕷️ Spiders
-- - 🦾 Automation Scripts
-- - 💣 Malware
-- - 🎓 Guides
-- - 🕵️‍♂️ Investigation Tools
-- - 🪖 Cyber Weapons
+- 🕷️ Spiders
+- 🦾 Automation Scripts
+- 💣 Malware
+- 🎓 Guides
+- 🕵️‍♂️ Investigation Tools
+- 🪖 Cyber Weapons
+- --------------------------------------
+
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEElxnNnKYIX9qRenPOGboybYYOLH0FAmbUzDEACgkQGboybYYO
-LH03jA/+ILkq7jmoKqijeCSALzBcBaRguo7bxh1/8I0s8E/eVAI5y20egjuna9T+
-ZFyDZoHXg3SY2PjrKqkKWSm338p0d2zTtLRNFrY9YBCypkv5zR+LMfupPRWEqzmu
-+nClr2igdyAN3ir7jEE8E2xAlPk8QI0owW0TOvuPlF7zGbFMiw4xPQ7wYzMdpyCz
-5q6k+4ljPHXjSbYiDe+iRLv2B3vX2XpGAq8IBkBzBfRkiv4l7Sbs0HOfBqD28JH6
-5QcHiGKey6NqGe3U7qERtZBAjiYYxi28CYF/r34srCJyrkWPfO3gKj27cPaJeOTq
-nhXOwve7OS2QoaJWcUtB9+epX6aCaH5AbzRmJ2KDXYf+w6iwnM21icLrQmUwOuwF
-56uvENATIIm4NvXVcgCmIpNv4Ff4Y4VQgywteFXHEc+c6fzMiewidtFhygBFml+6
-rduHoVGEHbQdZkt2Fe80PiI7LTh8siH2Z9ZNmEe5pX+LB4JSHb+qrnF/rx2qyeyl
-iNtXfDo/M3OsWworg/ndvVNxvHY5soKEDsjW6utICBMv1JRZwi+WoHAZeconJDkP
-3FaGthAycXbTeJjWRkiFc+7y1EK1pCcrlk0Fv3LUUUi4n6YG7kOjsHgl6EjY42VV
-upR5mKOn75GWuy7qUjucmnLIp9nj4ect0Dz8SPT7cKuTBkZIpio=
-=ktQh
+iQIzBAEBCAAdFiEElxnNnKYIX9qRenPOGboybYYOLH0FAmbUzQIACgkQGboybYYO
+LH2G6A//aHe971ZCGdL6N4cTKf1MroqlNRD9StwrPZcmaOtlYW9NzONEJ+RD9ox/
+IarqZEoE/rukSpEXnSJ8ISYybhGaYmNyna+ghUwTG4wxlyqXF7Xieeab+JZRv6rW
+2RDhPn1N1RwgG/vKVemv9cZCWntkKJ2szXsfsBXqlkhgbf8DOmS0G5pzkGDPtTJn
+vQsYU8rgYh8wiY9XV++Gv48sbascVxau34F42oXJnYclnC7fWKzBlzGYjyYHG9A5
+HQjotrhL5OZcdLR72Z6J8A9JVD3GX0b+JUyNuWiVm7lb8kU0DOo3LBVqyNx5drHs
+tJCluk73VCYX4BZXRiqKqUaxLulfjf1aof2AhtIR0n6MqPpqFj5G6Bv5NHG3YdhD
+guKd5rfpb6eGxPXe8Dr+UHYy2N/EHm5zHD9FJcXp1lJJU5WM+vOLWPxGTaRugU6X
+wFBgBVv3n4eEqs7LQve5y2kYpclrXYHMPDFibXGvM17X4mZyhWFmSvt+DQiI/ste
+nMaziFLIJa/ZluiWSnKR+Ik+mS0coiTTBuLs81791LI5YXLIk7/BqHjBo3PJUlKe
+NjU5JEjlU/qKdldA/DJLqOkuMLUSDSWbxvWPyUmvfxdkjtbG/njqmRBQBVG28UmM
+udchPIXoKCr4CSmA6nSfs+/beD9nFCGTXMDnBw28l+kTKZuCUVk=
+=xYEb
 -----END PGP SIGNATURE-----
